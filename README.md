@@ -1,6 +1,6 @@
 # Hola 👋, soy Tomás Pérez
 
-Soy un Desarrollador en proceso apasionado por las bases de datos y la creación de contenido tecnológico. Actualmente me encuentro especializandome en Ruby, Postgresql y Analisis de Datos con cursos de Google.
+Soy un Desarrollador en proceso de SAntiago de Chile, apasionado por las bases de datos y el trabajo en equipo. Me encuentro en busqueda de nuevos y desafiantes horizontes donde me pueda desarrollar día a día de manera profesional y personal. Actualmente me encuentro especializandome en Ruby, Postgresql y Analisis de Datos con cursos de Google.
 
 <!-- ## 💼 Trabajo actual
 
